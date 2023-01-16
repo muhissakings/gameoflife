@@ -1,0 +1,10 @@
+C:\Users\muhis\Documents\ulnotes\Sumilation and Modeling\gameoflife\gameoflife\bin\Debug\gameoflife.exe.config
+C:\Users\muhis\Documents\ulnotes\Sumilation and Modeling\gameoflife\gameoflife\bin\Debug\gameoflife.exe
+C:\Users\muhis\Documents\ulnotes\Sumilation and Modeling\gameoflife\gameoflife\bin\Debug\gameoflife.pdb
+C:\Users\muhis\Documents\ulnotes\Sumilation and Modeling\gameoflife\gameoflife\obj\Debug\gameoflife.csproj.AssemblyReference.cache
+C:\Users\muhis\Documents\ulnotes\Sumilation and Modeling\gameoflife\gameoflife\obj\Debug\gameoflife.gameoflifemain.resources
+C:\Users\muhis\Documents\ulnotes\Sumilation and Modeling\gameoflife\gameoflife\obj\Debug\gameoflife.Properties.Resources.resources
+C:\Users\muhis\Documents\ulnotes\Sumilation and Modeling\gameoflife\gameoflife\obj\Debug\gameoflife.csproj.GenerateResource.cache
+C:\Users\muhis\Documents\ulnotes\Sumilation and Modeling\gameoflife\gameoflife\obj\Debug\gameoflife.csproj.CoreCompileInputs.cache
+C:\Users\muhis\Documents\ulnotes\Sumilation and Modeling\gameoflife\gameoflife\obj\Debug\gameoflife.exe
+C:\Users\muhis\Documents\ulnotes\Sumilation and Modeling\gameoflife\gameoflife\obj\Debug\gameoflife.pdb
